@@ -1,4 +1,4 @@
-package com.mss.productservice;
+package com.mss.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
